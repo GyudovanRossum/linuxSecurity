@@ -6,6 +6,14 @@ part 1
 - device : switch ,router
 
 
+2023,11,30 
+Switch Model
+- cisco, HP, sun..
+- prise : 1000000 dolla
+
+Router Model
+- L3 switch
+
 part 2
 - OSI 5-7 Layer
-- Applocation let go
+- Applocation : app 
